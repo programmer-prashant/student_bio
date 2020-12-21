@@ -1,0 +1,14 @@
+body {
+	background-color: #e1bee7 !important;
+}
+
+.nav__background {
+	background-color: #4a148c;
+}
+.card__bdr {
+	border-width: 0;
+}
+
+.card {
+	position: relative;
+}
